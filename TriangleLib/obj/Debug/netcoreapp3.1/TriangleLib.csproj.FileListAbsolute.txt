@@ -1,0 +1,16 @@
+C:\Users\max20\source\repos\TriangleLib\bin\Debug\netcoreapp3.1\TriangleLib.deps.json
+C:\Users\max20\source\repos\TriangleLib\bin\Debug\netcoreapp3.1\TriangleLib.dll
+C:\Users\max20\source\repos\TriangleLib\bin\Debug\netcoreapp3.1\TriangleLib.pdb
+C:\Users\max20\source\repos\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.csprojAssemblyReference.cache
+C:\Users\max20\source\repos\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.AssemblyInfoInputs.cache
+C:\Users\max20\source\repos\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.AssemblyInfo.cs
+C:\Users\max20\source\repos\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.dll
+C:\Users\max20\source\repos\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.pdb
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\bin\Debug\netcoreapp3.1\TriangleLib.deps.json
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\bin\Debug\netcoreapp3.1\TriangleLib.dll
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\bin\Debug\netcoreapp3.1\TriangleLib.pdb
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.csprojAssemblyReference.cache
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.AssemblyInfoInputs.cache
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.AssemblyInfo.cs
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.dll
+C:\Users\max20\source\repos\FirstLineSoftware\TriangleLib\obj\Debug\netcoreapp3.1\TriangleLib.pdb
